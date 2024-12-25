@@ -1,0 +1,48 @@
+body{
+    height: 125vh;
+    margin: 0;
+    padding:0;
+    background-size: cover;
+    font-family: sans-serif;
+
+}
+
+.navbar{
+    border-color: black;
+    
+}
+
+.name{
+    float: left;
+    color: black;
+    font-size:larger;
+    font-weight:bolder;
+    padding-left: 25px;
+}
+
+ ul{
+    list-style-type: none;
+   align-items:center;
+}
+
+  li a{
+
+    display: inline;
+    text-align: center;
+    padding: 25px;
+    float:right;
+    text-decoration: none;
+    color: black; 
+
+}
+
+/*header*/
+
+#wrapper{
+  margin-top: 150px;
+  font-family: sans-serif;
+  font-weight: bolder;
+  font-style: italic;
+  font-size: x-large;
+  float: left;
+}
